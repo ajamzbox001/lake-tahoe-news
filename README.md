@@ -1,4 +1,4 @@
-# lake-tahoe-news
+# Lake Tahoe News
 
 Using HTML and CSS.
 <br>
